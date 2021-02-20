@@ -8,5 +8,3 @@ se der erro execute
 
 execute novamente
 # nodemon app
-
-#  http://localhost:3335/
