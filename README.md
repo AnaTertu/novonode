@@ -1,6 +1,6 @@
-# novonode, refeito formulário 
+novonode, refeito formulário 
 
-# iniciar com
+iniciar com
 # nodemon app
 
 se der erro execute
