@@ -5,3 +5,8 @@ iniciar com
 
 se der erro execute
 # npm install --save-dev nodemon
+
+execute novamente
+nodemon app
+
+#  http://localhost:3335/
